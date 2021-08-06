@@ -1,0 +1,17 @@
+{
+  "tools": {
+    "dotnet": "5.0.301",
+
+    "runtimes": {
+      "aspnetcore": [
+        "2.1.28",
+        "3.1.16"
+      ]
+    }
+  },
+
+  "msbuild-sdks": {
+    "Microsoft.DotNet.Arcade.Sdk": "5.0.0-beta.20510.1",
+    "Microsoft.DotNet.Helix.Sdk": "5.0.0-beta.20510.1"
+  }
+}
